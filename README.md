@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/a0c/autobuilds.svg?branch=master)](https://travis-ci.org/a0c/autobuilds)
 # Linux Tweet App
 
 This is very simple NGINX website that allows a user to send a tweet. 
